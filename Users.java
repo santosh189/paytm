@@ -4,4 +4,7 @@ Hello myslef DEV
 hello myslef Gowthami
 this file contains users info
 infooo
+<<<<<<< HEAD
 infoooo
+
+INFOOOOOO
